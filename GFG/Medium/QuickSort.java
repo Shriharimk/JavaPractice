@@ -1,4 +1,4 @@
-package GFG.Easy;
+package GFG.Medium;
 
 public class QuickSort {
 

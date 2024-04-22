@@ -12,7 +12,7 @@ public class KthSmallestandLargest {
 
     public static void main(String[] args) {
         int a[] = {1, 2, 3, 4, 5, 6};
-        kthSmallestandLargest(a, 2);// return 2ns smallest and 2nd largest values
+        kthSmallestandLargest(a, 2);// return 2nd smallest and 2nd largest values
     }
     
 }
