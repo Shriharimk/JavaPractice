@@ -1,9 +1,14 @@
-package DemoPrograms;
-import java.util.*;
+package BasicDSA;
+
+import java.util.LinkedList;
 
 public class LinkedListDemo {
     public static void main(String[] args) {
-        LinkedList<Integer> list = new LinkedList<Integer>();
+
+        //Reverse  of linked list: https://www.youtube.com/watch?v=_cl3O4FBZh8
+        //middle of ll https://www.youtube.com/watch?v=7LjQ57RqgEc&ab_channel=takeUforward
+
+        LinkedList<Integer> list = new LinkedList<>();
         list.addFirst(10);
         list.addFirst(20);
         list.addFirst(30);

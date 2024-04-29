@@ -1,4 +1,4 @@
-package DemoPrograms;
+package BasicDSA;
 import java.util.ArrayList;
 
 public class arraListDemo {

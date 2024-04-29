@@ -1,4 +1,5 @@
-package DemoPrograms;
+package BasicDSA;
+
 import java.util.HashMap;
 import java.util.Map;
 

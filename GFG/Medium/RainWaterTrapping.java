@@ -25,7 +25,7 @@ public class RainWaterTrapping {
         System.out.println("\n"+sum);
     }
     public static void main(String[] args) {
-        int a[]= {3,0,0,2,0,4};
+        int a[]= {4,2,0,3,2,5};
         findRainWaterTrapped(a);
     }
 }

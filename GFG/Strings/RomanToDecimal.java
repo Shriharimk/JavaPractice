@@ -35,7 +35,6 @@ public class RomanToDecimal {
                 } else if (a1 >= a2) {
                     res = res + a1;
                 }
-
             }
             else res = res + a1;
         }
