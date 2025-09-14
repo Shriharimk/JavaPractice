@@ -23,6 +23,11 @@ public class MultiThreadingDemo extends Thread {
         for(int i = 0;i<5;i++){
             System.out.println(i+" "+"From ThreadNumber: "+thNumber);
         }
+        try {//HTread.sleep needs to be in a try catch block
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
     }
 
     public static void main(String[] args) {
@@ -30,9 +35,10 @@ public class MultiThreadingDemo extends Thread {
         th.start();
         MultiThreadingDemo th2 = new MultiThreadingDemo(2);
         th2.start();
-        MultiDemoRunnable thread =  new MultiDemoRunnable(5);
-        Thread t = new Thread(thread);
-        t.start();
+        // MultiDemoRunnable thread =  new MultiDemoRunnable(5);
+        // Thread t = new Thread(thread);
+        // t.start();
+        System.out.println("this executoion is independent as running on different thread");
         ArrayList<Integer> numbers = new ArrayList<Integer>();
         for(int i=0;i<5;i++){
             numbers.add(i);

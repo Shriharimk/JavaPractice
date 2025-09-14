@@ -1,10 +1,18 @@
 package DemoPrograms;
+
+class A extends Exception{
+    A(String msg){
+        super(msg);
+    }
+}
+
 public class ExceptionHandleingDemo {
     public static void main(String[] args) {
         try{
             int a[]={1,2,3};
             System.out.println(a[10]);
         }catch(Exception e){
+            System.out.println(e);
             System.out.println("Something went wrong");
         }
         System.out.println("Code control here as normal");
@@ -14,9 +22,19 @@ public class ExceptionHandleingDemo {
             if(age<18){
                 throw new ArithmeticException("Too young");
             }
-        }catch(Exception e){
+        }catch(ArithmeticException e){
             System.out.println(e);
             System.out.println(e.getMessage());
+        }
+
+
+        System.out.println();
+        System.out.println("Custome exception");
+        try{
+            throw new A("My Error");
+        }catch(A a){
+            System.out.println(a);
+            System.out.println(a.getMessage());
         }
     }
 }

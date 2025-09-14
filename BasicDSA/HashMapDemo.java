@@ -39,9 +39,20 @@ public class HashMapDemo {
 
         //Iteration over HashMap
         System.out.println("Iteration over HashMap");
+        System.out.println("Usign entry");
         for(Map.Entry<String,Integer> entry: map.entrySet()){
             System.out.println(entry.getKey() + " " + entry.getValue());
         }
+
+        System.out.println("Using for each");
+        map.forEach((key, value) ->{
+            System.out.println("Key:" +key+ " Value:" + value);
+        });
+        System.out.println();
+        System.out.println("Only keys");
+        map.values().forEach((value) ->{
+            System.out.println( " Value:" + value);
+        });
 
         //Removing
         //1.remove method
