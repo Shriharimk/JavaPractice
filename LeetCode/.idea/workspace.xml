@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="030717af-60fc-48f9-a9ef-bbc07444a291" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ApnaCollegeSheet/src/BestTimeToBuyStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApnaCollegeSheet/src/ContainerOfWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApnaCollegeSheet/src/KadaneAlgoMaxSumSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApnaCollegeSheet/src/LongestSubarraySumDivisibleK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApnaCollegeSheet/src/MaxProdSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApnaCollegeSheet/src/MergeOverlappingInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApnaCollegeSheet/src/MinInRotaterArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApnaCollegeSheet/src/NumberOfIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApnaCollegeSheet/src/ProducOfItself.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApnaCollegeSheet/src/RepeatAndMissingNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApnaCollegeSheet/src/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApnaCollegeSheet/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApnaCollegeSheet/src/Strings/LongestSubStringWithoutRepeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApnaCollegeSheet/src/Strings/PalindromicSubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApnaCollegeSheet/src/Strings/ValidParanthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApnaCollegeSheet/src/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicDSA/Arrays/AvoidFloodInCity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicDSA/Arrays/RemoveDuplicateString2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicDSA/Arrays/RemoveDuplicatesFromArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicDSA/Arrays/Sorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicDSA/Arrays/Sorting/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicDSA/Graphs/AdjacencyListWithOutEdge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicDSA/Graphs/CycleDetection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicDSA/Graphs/DijkstraAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicDSA/Graphs/GraphsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicDSA/Graphs/ShortestPathInDirectedAcyclicGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicDSA/Graphs/TopologicalSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicDSA/Graphs/allPossiblePaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicDSA/Graphs/graphDemoAdjacencyListEdge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicDSA/Graphs/utilities/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicDSA/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicDSA/MyCalender1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG_LeetCode/BST_GRAPH_Scratch/BipartiteGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG_LeetCode/BST_GRAPH_Scratch/DetectCycleIn2DArrayBFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG_LeetCode/BST_GRAPH_Scratch/FlooFill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG_LeetCode/BST_GRAPH_Scratch/Graph_BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG_LeetCode/BST_GRAPH_Scratch/Graph_DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG_LeetCode/BST_GRAPH_Scratch/Inorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG_LeetCode/BST_GRAPH_Scratch/InvertBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG_LeetCode/BST_GRAPH_Scratch/MaxDepth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG_LeetCode/BST_GRAPH_Scratch/RottenOranges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG_LeetCode/BST_GRAPH_Scratch/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG_LeetCode/DP/Triangulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG_LeetCode/Easy/BottlesDrank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG_LeetCode/Easy/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG_LeetCode/Easy/MostFrequentEvenNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG_LeetCode/Easy/uniqueEmailAddresses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG_LeetCode/Graphs/AllPathsBWSrcTar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG_LeetCode/Graphs/DijkstraWithTreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG_LeetCode/Graphs/FindIfPathExisits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG_LeetCode/Graphs/NetworkDelayTIme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG_LeetCode/Graphs/RedundantConnections_DisJointSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG_LeetCode/Medium/CompareVersionNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG_LeetCode/Medium/MinAmtOfTimeToBreq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG_LeetCode/Medium/MysticDungeon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG_LeetCode/Medium/SpellsAndPotionParis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG_LeetCode/Medium/Stringcompression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG_LeetCode/Medium/TriangulationSumOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG_LeetCode/ReOrganizeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG_LeetCode/Strings/DecodeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG_LeetCode/Strings/RemoveDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG_LeetCode/increasingTripLetSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDSA/Tree/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicDSA/Tree/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDSA/out/production/BasicDSA/BasicDSA/Tree/BinaryTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicDSA/out/production/BasicDSA/BasicDSA/Tree/BinaryTree$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDSA/out/production/BasicDSA/BasicDSA/Tree/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicDSA/out/production/BasicDSA/BasicDSA/Tree/BinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GFG_LeetCode/BST/PathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GFG_LeetCode/BST/PathSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GFG_LeetCode/Easy/RemoveDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GFG_LeetCode/Easy/RemoveDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GFG_LeetCode/Strings/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GFG_LeetCode/Strings/LongestCommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GFG_LeetCode/out/production/GFG/GFG/Strings/LongestCommonPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GFG_LeetCode/out/production/GFG/GFG/Strings/LongestCommonPrefix.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Shriharimk"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Shriharimk/JavaPractice.git",
+    "accountId": "57d4acc5-49b9-4f72-9c33-5365b126a05b"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="39JzhXzcuzmJE08SO7rr854AtlE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Practice/LeetCode",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="030717af-60fc-48f9-a9ef-bbc07444a291" name="Changes" comment="" />
+      <created>1770429080285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770429080285</updated>
+    </task>
+    <servers />
+  </component>
+</project>

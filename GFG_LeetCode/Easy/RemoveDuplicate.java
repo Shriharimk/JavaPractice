@@ -1,4 +1,4 @@
-package LeetCode.Easy;
+package GFG.Easy;
 
 public class RemoveDuplicate {
     public static int removeDuplicates(int[] nums) {

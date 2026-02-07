@@ -20,7 +20,7 @@ class PathSum {
              System.out.println("depth: "+depth);
              System.out.println("old sum = "+ sum);
              System.out.println("temp = "+ temp);
-
+    
              sum = sum+root.val;
              System.out.println("new sum = "+ sum);
              if(root.left == null && root.right==null && sum==target){
